@@ -1,0 +1,7 @@
+export(add_names.ggplot2)
+export(identify.ggplot2)
+export(identifyPch)
+export(plot.and.identify)
+export(slider.)
+import(manipulate)
+import(pwrgg2)

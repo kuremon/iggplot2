@@ -1,0 +1,14 @@
+Package: iggplot2
+Type: Package
+Title: Create interactive ggplot2 graphics
+Version: 1.0
+Date: 2013-11-14
+Author: Clement Bonini
+Maintainer: Clement Bonini <clement.bonini@gmail.com>
+Description: This package provides functions to help using ggplot2
+    interactively.
+License: GPL
+Collate:
+    'iggplot2.R'
+    'manipulate_and_return.R'
+    'identify.R'
